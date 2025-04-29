@@ -1,0 +1,3 @@
+Which question would you like to check?: 
+Please enter a number: 
+9 is an invalid input 

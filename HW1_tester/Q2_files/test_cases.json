@@ -1,0 +1,30 @@
+[
+    {
+        "input_file": "test_official/q2_input.txt",
+        "expected_output_file": "test_official/q2_output.txt"
+    },
+    {
+        "input_file": "test2/q2_input.txt",
+        "expected_output_file": "test2/q2_output.txt"
+    },
+    {
+        "input_file": "test3/q2_input.txt",
+        "expected_output_file": "test3/q2_output.txt"
+    },
+    {
+        "input_file": "test4/q2_input.txt",
+        "expected_output_file": "test4/q2_output.txt"
+    },
+    {
+        "input_file": "test5/q2_input.txt",
+        "expected_output_file": "test5/q2_output.txt"
+    },
+    {
+        "input_file": "test6/q2_input.txt",
+        "expected_output_file": "test6/q2_output.txt"
+    },
+    {
+        "input_file": "test7/q2_input.txt",
+        "expected_output_file": "test7/q2_output.txt"
+    }
+]

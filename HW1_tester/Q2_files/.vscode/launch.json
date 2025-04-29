@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aimanabed/Desktop/uni/sem8/cProg/HW1/hw1files",
+      "program": "/Users/aimanabed/Desktop/uni/sem8/cProg/HW1/hw1files/build/Debug/outDebug"
+    }
+  ]
+}

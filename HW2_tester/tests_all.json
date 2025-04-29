@@ -1,0 +1,124 @@
+{
+  "q1_tests": [
+    {
+      "input": "hw2_q1/input/test1_q_1.txt",
+      "output": "hw2_q1/output/test1_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test2_q_1.txt",
+      "output": "hw2_q1/output/test2_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test3_q_1.txt",
+      "output": "hw2_q1/output/test3_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test4_q_1.txt",
+      "output": "hw2_q1/output/test4_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test5_q_1.txt",
+      "output": "hw2_q1/output/test5_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test6_q_1.txt",
+      "output": "hw2_q1/output/test6_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test7_q_1.txt",
+      "output": "hw2_q1/output/test7_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test8_q_1.txt",
+      "output": "hw2_q1/output/test8_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test9_q_1.txt",
+      "output": "hw2_q1/output/test9_q_1_output.txt"
+    },
+    {
+      "input": "hw2_q1/input/test10_q_1.txt",
+      "output": "hw2_q1/output/test10_q_1_output.txt"
+    }
+  ],
+  "q2_tests": [
+    {
+      "input": "hw2_q2/input/test1_q_2.txt",
+      "output": "hw2_q2/output/test1_q_2_output.txt"
+    },
+    {
+      "input": "hw2_q2/input/test2_q_2.txt",
+      "output": "hw2_q2/output/test2_q_2_output.txt"
+    },
+    {
+      "input": "hw2_q2/input/test3_q_2.txt",
+      "output": "hw2_q2/output/test3_q_2_output.txt"
+    },
+    {
+      "input": "hw2_q2/input/test4_q_2.txt",
+      "output": "hw2_q2/output/test4_q_2_output.txt"
+    },
+    {
+      "input": "hw2_q2/input/test5_q_2.txt",
+      "output": "hw2_q2/output/test5_q_2_output.txt"
+    },
+    {
+      "input": "hw2_q2/input/test6_q_2.txt",
+      "output": "hw2_q2/output/test6_q_2_output.txt"
+    },
+    {
+      "input": "hw2_q2/input/test7_q_2.txt",
+      "output": "hw2_q2/output/test7_q_2_output.txt"
+    },
+    {
+      "input": "hw2_q2/input/test8_q_2.txt",
+      "output": "hw2_q2/output/test8_q_2_output.txt"
+    },
+    {
+      "input": "hw2_q2/input/test9_q_2.txt",
+      "output": "hw2_q2/output/test9_q_2_output.txt"
+    }
+  ],
+  "q3_tests": [
+    {
+      "input": "hw2_q3/input/test1_q_3.txt",
+      "output": "hw2_q3/output/test1_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test2_q_3.txt",
+      "output": "hw2_q3/output/test2_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test3_q_3.txt",
+      "output": "hw2_q3/output/test3_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test4_q_3.txt",
+      "output": "hw2_q3/output/test4_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test5_q_3.txt",
+      "output": "hw2_q3/output/test5_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test6_q_3.txt",
+      "output": "hw2_q3/output/test6_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test7_q_3.txt",
+      "output": "hw2_q3/output/test7_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test8_q_3.txt",
+      "output": "hw2_q3/output/test8_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test9_q_3.txt",
+      "output": "hw2_q3/output/test9_q_3_output.txt"
+    },
+    {
+      "input": "hw2_q3/input/test10_q_3.txt",
+      "output": "hw2_q3/output/test10_q_3_output.txt"
+    }
+  ]
+}
